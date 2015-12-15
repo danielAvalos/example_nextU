@@ -31,11 +31,8 @@ class ViewController: UIViewController {
     override func performSelector(aSelector: Selector) -> Unmanaged<AnyObject>! {
         <#code#>
     }
-    
-    override func performSelector(aSelector: Selector, withObject anArgument: AnyObject?, afterDelay delay: NSTimeInterval) {
-        <#code#>
-    }
 
+//Comentary
     
 
 }
