@@ -23,7 +23,12 @@ class ViewController: UIViewController {
     override func overrideTraitCollectionForChildViewController(childViewController: UIViewController) -> UITraitCollection? {
         <#code#>
     }
+    
+    override func performSegueWithIdentifier(identifier: String, sender: AnyObject?) {
+        <#code#>
+    }
 
+    
 
 }
 
