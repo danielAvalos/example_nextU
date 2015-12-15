@@ -27,6 +27,14 @@ class ViewController: UIViewController {
     override func performSegueWithIdentifier(identifier: String, sender: AnyObject?) {
         <#code#>
     }
+    
+    override func performSelector(aSelector: Selector) -> Unmanaged<AnyObject>! {
+        <#code#>
+    }
+    
+    override func performSelector(aSelector: Selector, withObject anArgument: AnyObject?, afterDelay delay: NSTimeInterval) {
+        <#code#>
+    }
 
     
 
